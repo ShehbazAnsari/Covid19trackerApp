@@ -1,0 +1,17 @@
+
+.name{
+  margin-top: 25px !important;
+  width: 100% !important;
+  font-size: small !important;
+  border-top: 1px solid lightgrey !important;
+  text-align: center !important;
+  background-color: lightgoldenrodyellow !important;
+  padding-top: 5px !important;
+}
+.email{
+  padding: 2px 0 !important;
+  width: 100% !important;
+  font-size: small !important;
+  text-align: center !important;
+  background-color: lightgoldenrodyellow !important;
+}

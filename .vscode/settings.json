@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrapColumn": 40,
+  "editor.codeActionsOnSave": {},
+  "auto-rename-tag.activationOnLanguage": [
+
+    "*"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+ }
+}
